@@ -1,0 +1,39 @@
+[
+    {
+      "id": 1,
+      "title": "Terpercaya",
+      "image": "https://img.freepik.com/free-vector/award-ribbon-check-mark-with-stars-gradient-style_78370-1098.jpg?w=740&t=st=1705651864~exp=1705652464~hmac=a5a70dcb2004300580736fd28d76c31d2f71d0f822b8f0dffd4a5fd63c6b6e41",
+      "deskripsi": "Sejak tahun 2024, kami telah berkomitmen untuk menyajikan berita terpercaya dan akurat kepada pembaca kami. Tim redaksi kami terdiri dari jurnalis berpengalaman yang berdedikasi untuk memberikan informasi yang dapat dipercaya kepada masyarakat. Kami mengutamakan integritas dan kredibilitas dalam setiap laporan berita kami."
+    },
+    {
+      "id": 2,
+      "title": "Diversifikasi Informasi",
+      "image": "https://img.freepik.com/free-vector/people-showcasing-different-types-ways-access-news_53876-66059.jpg?w=900&t=st=1705653312~exp=1705653912~hmac=e89425d129ee256c49a9baa7237b71a913cd10e4c191e95b5ca0d29f8e1b6a67",
+      "deskripsi": "Kami memahami kebutuhan pembaca akan berita yang beragam dan relevan. Oleh karena itu, kami berkomitmen untuk menyajikan informasi dari berbagai sektor dan topik. Mulai dari politik, ekonomi, hingga hiburan dan gaya hidup, kami mencakup berbagai aspek kehidupan untuk memenuhi kebutuhan wawasan Anda."
+    },
+    {
+      "id": 3,
+      "title": "Inovatif dan Interaktif",
+      "image": "https://img.freepik.com/free-vector/lightbulb-with-gears-icon-design_1308-128405.jpg?w=740&t=st=1705653428~exp=1705654028~hmac=3b77b0a3b0ffd08f23522e386030eb03ced724d2c7d4495276020470baad3783",
+      "deskripsi": "Kami selalu berusaha untuk tetap menjadi yang terdepan dalam dunia berita digital. Dengan mengintegrasikan teknologi terkini, kami memberikan pengalaman berita yang inovatif dan interaktif. Nikmati berita dalam format yang menarik dan mudah diakses, di mana pun Anda berada."
+    },
+    {
+      "id": 4,
+      "title": "Komunitas Berita",
+      "image": "https://img.freepik.com/free-vector/group-young-people-waving-hand_23-2148361692.jpg?w=996&t=st=1705653666~exp=1705654266~hmac=8a5aa7d0e924abf7ea6c927da7945eefeffc2f0b9b9bb4ddf6ee99c09189a497",
+      "deskripsi": "Kami bangga menjadi bagian dari komunitas pembaca yang aktif dan berpikiran serupa. Kami mendorong diskusi dan interaksi melalui platform online kami. Bergabunglah dengan komunitas kami untuk berbagi pandangan, memberikan umpan balik, dan terlibat dalam pembentukan narasi berita kami."
+    },
+    {
+      "id": 5,
+      "title": "Laporan Investigasi",
+      "image": "https://img.freepik.com/free-vector/statistical-data-abstract-paper-tablet_3446-312.jpg?w=740&t=st=1705653518~exp=1705654118~hmac=5e29281fc6a1da82ff6f3aab89a76be089f66602845032d3cabb372ad663a210",
+      "deskripsi": "Kami memahami pentingnya laporan investigasi dalam mendukung kebenaran dan keadilan. Tim jurnalis investigatif kami bekerja keras untuk mengungkap fakta-fakta tersembunyi dan memperkenalkan pembaca kami pada sisi-sisi cerita yang belum terungkap."
+    },
+    {
+      "id": 6,
+      "title": "Pelayanan Pelanggan",
+      "image": "https://img.freepik.com/free-vector/organic-flat-customer-support_23-2148881015.jpg?w=996&t=st=1705653552~exp=1705654152~hmac=ca9a2ba7fce4b48e9139f788c6ddf9dcb596e5e885d94adc78e625dbd4a17420",
+      "deskripsi": "Kepuasan pembaca adalah prioritas utama kami. Tim layanan pelanggan kami siap membantu Anda dengan pertanyaan atau masalah apa pun yang Anda miliki. Kami mendengarkan umpan balik Anda dan terus berupaya meningkatkan kualitas layanan kami demi kepuasan pembaca setia kami."
+    }
+  ]
+  
